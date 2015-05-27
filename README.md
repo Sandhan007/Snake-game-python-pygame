@@ -9,7 +9,7 @@ Requirements:
 Usage:
 ==============================================================
 
-Linux
+Linux:
 --------------------------------------------------------------
 1. Open the terminal and go to the game's base directory
 2. Set executable permission for the file main.py
