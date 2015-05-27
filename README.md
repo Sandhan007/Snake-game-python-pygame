@@ -13,9 +13,9 @@ Linux
 --------------------------------------------------------------
 1. Open the terminal and go to the game's base directory
 2. set executable permission for the file main.py
-   chmod u+x main.py
+         chmod u+x main.py
 3. run the main.py file
-   ./main.py
+         ./main.py
 
 Windows:
 ---------------------------------------------------------------
