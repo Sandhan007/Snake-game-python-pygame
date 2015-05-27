@@ -12,15 +12,15 @@ Usage:
 Linux
 --------------------------------------------------------------
 1. Open the terminal and go to the game's base directory
-2. set executable permission for the file main.py
+2. Set executable permission for the file main.py
   `chmod u+x main.py`
-3. run the main.py file
+3. Run the main.py file
   `./main.py`
 
 Windows:
 ---------------------------------------------------------------
-1. Open the terminal and go to the game's base directory
-2. use `python main.py`
+1. Open the command prompt and go to the game's base directory
+2. Use `python main.py`
 
 or
 
